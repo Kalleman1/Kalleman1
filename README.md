@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kalleman1
-- 👀 I’m interested in
-- 🌱 I’m currently learning
-- 📫 How to reach me: ;)
+- 👋 Hi, I’m Kasper Nørgaard Rahr Clausen
+- 👀 I’m interested in Appdevelopment, webdevelopment
+- 🌱 I’m currently learning .NET MAUI, React.js
+- 📫 How to reach me: kaper1@live.dk
 
 <!---
 Kalleman1/Kalleman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
