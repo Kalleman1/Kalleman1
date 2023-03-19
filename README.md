@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kasper Nørgaard Rahr Clausen
-- 👀 I’m interested in Appdevelopment, webdevelopment
+- 👀 I’m interested in App development, web development
 - 🌱 I’m currently learning .NET MAUI, React.js
 - 📫 How to reach me: kaper1@live.dk
 
