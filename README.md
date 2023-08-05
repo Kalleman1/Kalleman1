@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Kasper Nørgaard Rahr Clausen
-- 👀 I’m interested in App development, web development
-- 🌱 I’m currently learning .NET MAUI, React.js
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning TypeScript + React
 - 📫 How to reach me: kaper1@live.dk
+
+
 
 <!---
 Kalleman1/Kalleman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
