@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Kasper Nørgaard Rahr Clausen
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning TypeScript + React
-- 📫 How to reach me: kaper1@live.dk
+- 👋 Hi, I’m Kasper
 
 
 
